@@ -1,0 +1,14 @@
+Name	CAS	SMILES
+α-hANP	85637-73-6	N1[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)O)Cc2ccc(cc2)O)CCCNC(=N)N)Cc2ccccc2)CO)CC(=O)N)CSSC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](N)CO)CC(C)C)CCCNC(=N)N)CCCNC(=N)N)CO)CO)C(=O)N[C@H](C(=O)NCC(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@@H](C)C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)NCC1=O)CC(C)C)CO)CCC(=O)N)[C@@H](C)CC)CCCNC(=N)N)CC(=O)O)CCSC)CCCNC(=N)N)Cc1ccccc1
+Astragaloside IV	84687-43-4	CC(C)(O)[C@@H]1CC[C@@](C)(O1)[C@H]2[C@@H](O)C[C@@]3(C)[C@@H]4C[C@H](O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)[C@H]6C(C)(C)[C@H](CC[C@@]67C[C@@]47CC[C@]23C)O[C@@H]8OC[C@@H](O)[C@H](O)[C@H]8O
+Carocainide	66203-00-7	C1CCN(C1)CCOc1c(OC)c2occc2c(c1NC(NC)=O)OC
+Clindamycin	18323-44-9	CCC[C@@H]1C[C@H](N(C)C1)C(=O)N[C@H]([C@H](C)Cl)[C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@H]2O
+Dimetindene	5636-83-9	C=1(c2c(cccc2)CC1CCN(C)C)[C@@H](c1ccccn1)C
+Fenspiride	5053-06-5	O=C1NCC2(CCN(CCc3ccccc3)CC2)O1
+Hexobarbital	56-29-1	CN1C(=O)NC(=O)C(C)(C2=CCCCC2)C1=O
+Lanreotide	108736-35-2	c1(c2c(cccc2)[nH]c1)C[C@@H]1NC(=O)[C@@H](Cc2ccc(O)cc2)NC([C@@H](CSSC[C@@H](NC([C@@H](NC([C@@H](NC1=O)CCCCN)=O)C(C)C)=O)C(N[C@@H]([C@@H](C)O)C(=O)N)=O)NC(=O)[C@@H](N)Cc1ccc2c(c1)cccc2)=O
+Metronidazole	443-48-1	Cc1ncc(N(=O)=O)n1CCO
+Olsalazine	15722-48-2	OC(=O)c1cc(ccc1O)N=Nc2ccc(O)c(c2)C(=O)O
+PR-104	851627-62-8	N(CCO[S](C)(=O)=O)(CC[Br])C(=C(C(NCCO[P](=O)(O)O)=O)C=C1N(=O)=O)C(N(=O)=O)=C1
+Safinamide	133865-89-1	C[C@@H](C(=O)N)NCc1ccc(cc1)OCc2cccc(c2)F
+Teriparatide	52232-67-4	c12c(C[C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](Cc3c[nH]cn3)NC([C@@H](NC(CNC([C@@H](NC([C@@H](NC([C@@H](Cc3c[nH]cn3)NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](NC([C@@H](CO)N)=O)C(C)C)=O)CO)=O)CCC(O)=O)=O)[C@@H](CC)C)=O)CCC(N)=O)=O)CC(C)C)=O)CCSC)=O)=O)CC(N)=O)=O)CC(C)C)=O)=O)CCCCN)=O)=O)CC(C)C)=O)CC(N)=O)=O)CO)=O)CCSC)=O)CCC(O)=O)=O)CCCNC(N)=N)=O)C(C)C)=O)CCC(O)=O)=O)C(N[C@@H](C(N[C@@H](C(N[C@@H](C(N[C@@H](C(N[C@@H](C(N[C@@H](C(N[C@@H](C(N[C@@H](C(N[C@@H](Cc3c[nH]cn3)C(N[C@@H](C(N[C@@H](Cc3ccccc3)C(O)=O)=O)CC(N)=O)=O)=O)C(C)C)=O)CC(O)=O)=O)CCC(N)=O)=O)CC(C)C)=O)CCCCN)=O)CCCCN)=O)CCCNC(N)=N)=O)CC(C)C)=O)c[nH]c1cccc2
